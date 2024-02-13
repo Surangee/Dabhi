@@ -1,0 +1,26 @@
+table{
+    /* border-style: dotted; */
+    /* border-style: dashed; */
+    /* border-style: solid; */
+    /* border-style: double; */
+    /* border-style: none; */
+    /* border-style: groove; */
+    /* border-style: inset; */
+    /* border-style: outset; */
+    /* border-style: ridge; */
+    /* border-style: hidden; */
+     /* border-style: solid dotted double dashed; */
+    border-width: 15px;
+    /* border-width: 5px 10px 15px 20px; */
+    /* border-width: thin; */
+    /* border-width: thick; */
+    /* border-width: medium; */
+    /* border-style: none none none solid; */
+    /* border-color: aquamarine green red blue; */
+    /* border: 5px solid  blue; */
+    /* border-radius: 16px 16px 16px 16px; */
+     /* border-left-style: dotted; */
+     /* border-bottom: 10px double red; */
+     /* border-color: blue; */
+
+}
