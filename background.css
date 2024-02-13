@@ -1,0 +1,24 @@
+ p{ 
+      /* background-color:goldenrod; */
+ background-image: url(./lr.jfif);
+     /* background-size:100%; */
+     /* background-size: 1000px 1000px; */
+     background-repeat:no-repeat ;
+     /* background-repeat: repeat-x; */
+     /* background-repeat: repeat-y; */
+     /* background-position: right top ;  */
+     /* background-position: left bottom; */
+     /* background-position: left; */
+     /* background-position: left top; */
+     background-position:center;
+     background-attachment: fixed;
+
+     
+ }  
+
+
+
+
+
+
+
